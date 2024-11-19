@@ -1,0 +1,15 @@
+{
+    "State": "Completed",
+    "Date": "11/01/2024",
+    "Fighters": ["bazinga", "terrorist"],
+    "Details": {
+        "Mode": "1v1 - FFA",
+        "Map": "Protocol",
+        "Special Rules": []
+    },
+    "Predictions": {},
+    "Stats": {
+        "bazinga": {"Kills": null, "Deaths": null, "Score": null, "Won": false},
+        "terrorist": {"Kills": null, "Deaths": null, "Score": null, "Won": true}
+    }
+}

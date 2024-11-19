@@ -1,0 +1,22 @@
+{
+    "State": "Upcoming",
+    "Date": "TBD",
+    "Fighters": ["bazinga", "terrorist"],
+    "Details": {
+        "Mode": "1v1 - FFA",
+        "Map": "Nuketown",
+        "Special Rules": ["No mines"]
+    },
+    "Predictions": {
+        "bazinga": {
+            "Diego": 70
+        },
+        "terrorist": {
+            "Diego": 30
+        }
+    },
+    "Stats": {
+        "bazinga": {"Kills": null, "Deaths": null, "Score": null, "Won": null},
+        "terrorist": {"Kills": null, "Deaths": null, "Score": null, "Won": null}
+    }
+}
