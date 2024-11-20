@@ -11,12 +11,14 @@
         "bazinga": {
             "Diego": 70,
             "ChatGPT": 25,
-            "Hunter": 70
+            "Hunter": 70,
+            "Claude": 40
         },
         "terrorist": {
             "Diego": 30,
             "ChatGPT": 75,
-            "Hunter": 30
+            "Hunter": 30,
+            "Claude": 60
         }
     },
     "Stats": {
