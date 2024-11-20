@@ -16,7 +16,7 @@
         }
     },
     "Stats": {
-        "terrorist": {"Kills": 2, "Deaths": 11, "Score": 2, "Won": false},
-        "obama": {"Kills": 10, "Deaths": 3, "Score": 10, "Won": true}
+        "terrorist": {"Kills": 16, "Deaths": 47, "Score": 16, "Won": false},
+        "obama": {"Kills": 47, "Deaths": 16, "Score": 47, "Won": true}
     }
 }
