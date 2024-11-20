@@ -1,15 +1,15 @@
 {
-    "State": "Completed",
-    "Date": "11/19/24",
+    "State": "Upcoming",
+    "Date": "TBD",
     "Fighters": ["bazinga", "terrorist"],
     "Details": {
         "Mode": "1v1 - FFA",
-        "Map": "Nuketown",
-        "Special Rules": ["THIS IS A TEST MATCH"]
+        "Map": "TBD",
+        "Special Rules": []
     },
     "Predictions": {},
     "Stats": {
-        "bazinga": {"Kills": 18, "Deaths": 75, "Score": 300, "Won": true},
-        "terrorist": {"Kills": 40, "Deaths": 13, "Score": 1500, "Won": false}
+        "bazinga": {"Kills": null, "Deaths": null, "Score": null, "Won": null},
+        "terrorist": {"Kills": null, "Deaths": null, "Score": null, "Won": null}
     }
 }
