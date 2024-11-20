@@ -7,7 +7,14 @@
         "Map": "TBD",
         "Special Rules": []
     },
-    "Predictions": {},
+    "Predictions": {
+        "bazinga": {
+            "ChatGPT": 40
+        },
+        "terrorist": {
+            "ChatGPT": 60
+        }
+    },
     "Stats": {
         "bazinga": {"Kills": null, "Deaths": null, "Score": null, "Won": null},
         "terrorist": {"Kills": null, "Deaths": null, "Score": null, "Won": null}

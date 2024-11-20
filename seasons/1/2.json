@@ -5,14 +5,16 @@
     "Details": {
         "Mode": "1v1 - FFA",
         "Map": "Nuketown",
-        "Special Rules": ["No mines"]
+        "Special Rules": []
     },
     "Predictions": {
         "bazinga": {
-            "Diego": 70
+            "Diego": 70,
+            "ChatGPT": 25
         },
         "terrorist": {
-            "Diego": 30
+            "Diego": 30,
+            "ChatGPT": 75
         }
     },
     "Stats": {
