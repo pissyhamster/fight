@@ -1,10 +1,10 @@
 {
-    "State": "Upcoming",
+    "State": "Completed",
     "Date": "11/19/2024",
     "Fighters": ["terrorist", "obama"],
     "Details": {
         "Mode": "1v1 - FFA",
-        "Map": "Nuketown",
+        "Map": "Protocol",
         "Special Rules": ["Always UAV"]
     },
     "Predictions": {
@@ -16,7 +16,7 @@
         }
     },
     "Stats": {
-        "terrorist": {"Kills": null, "Deaths": null, "Score": null, "Won": null},
-        "obama": {"Kills": null, "Deaths": null, "Score": null, "Won": null}
+        "terrorist": {"Kills": 2, "Deaths": 11, "Score": 2, "Won": false},
+        "obama": {"Kills": 10, "Deaths": 3, "Score": 10, "Won": true}
     }
 }
