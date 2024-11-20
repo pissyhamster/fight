@@ -16,7 +16,7 @@
         }
     },
     "Stats": {
-        "terrorist": {"Kills": null, "Deaths": null, "Score": null, "Won": null},
-        "legend": {"Kills": null, "Deaths": null, "Score": null, "Won": null}
+        "terrorist": {"Kills": 29, "Deaths": 28, "Score": 29, "Won": true},
+        "legend": {"Kills": 28, "Deaths": 30, "Score": 28, "Won": false}
     }
 }
