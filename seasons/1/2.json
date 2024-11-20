@@ -10,15 +10,15 @@
     "Predictions": {
         "bazinga": {
             "Diego": 70,
-            "ChatGPT": 25,
+            "ChatGPT": 35,
             "Hunter": 70,
-            "Claude": 40
+            "Claude": 38
         },
         "terrorist": {
             "Diego": 30,
-            "ChatGPT": 75,
+            "ChatGPT": 65,
             "Hunter": 30,
-            "Claude": 60
+            "Claude": 62
         }
     },
     "Stats": {
