@@ -1,0 +1,22 @@
+{
+    "State": "Upcoming",
+    "Date": "11/19/2024",
+    "Fighters": ["terrorist", "legend"],
+    "Details": {
+        "Mode": "1v1 - FFA",
+        "Map": "Babylon",
+        "Special Rules": ["Always UAV"]
+    },
+    "Predictions": {
+        "terrorist": {
+            "Hunter": 34
+        },
+        "legend": {
+            "Hunter": 66
+        }
+    },
+    "Stats": {
+        "terrorist": {"Kills": null, "Deaths": null, "Score": null, "Won": null},
+        "legend": {"Kills": null, "Deaths": null, "Score": null, "Won": null}
+    }
+}
