@@ -1,5 +1,5 @@
 {
-    "State": "Completed",
+    "State": "Upcoming",
     "Date": "11/19/2024",
     "Fighters": ["terrorist", "obama"],
     "Details": {
@@ -16,7 +16,7 @@
         }
     },
     "Stats": {
-        "bazinga": {"Kills": null, "Deaths": null, "Score": null, "Won": null},
+        "terrorist": {"Kills": null, "Deaths": null, "Score": null, "Won": null},
         "obama": {"Kills": null, "Deaths": null, "Score": null, "Won": null}
     }
 }
