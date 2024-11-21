@@ -1,0 +1,23 @@
+{
+    "state": "completed",
+    "fighters": {
+        "red": ["bazinga"],
+        "blue": ["terrorist"]
+    },
+    "details": {
+        "mode": "1v1 FFA",
+        "date": "11/01/2024",
+        "description": "Match occured on 11/1/2024 (stats lost), {terrorist} used a multitude of mines and explosives, leading to a highly controversial victory.",
+        "special_rules": []
+    },
+    "games": [
+        {
+            "map": "Protocol",
+            "stats": {
+                "bazinga": {"kills": null, "deaths": null, "score": null, "won": false},
+                "terrorist": {"kills": null, "deaths": null, "score": null, "won": true}
+            }
+        }
+    ],
+    "predictions": {}
+}

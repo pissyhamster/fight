@@ -1,0 +1,42 @@
+{
+    "state": "upcoming",
+    "fighters": {
+        "red": ["bazinga"],
+        "blue": ["terrorist"]
+    },
+    "details": {
+        "mode": "Best of 3 - 1v1 FFA",
+        "date": "11/22/2024",
+        "description": "",
+        "special_rules": []
+    },
+    "games": [
+        {
+            "map": "Nuketown",
+            "stats": {
+                "bazinga": {"kills": null, "deaths": null, "score": null, "won": null},
+                "terrorist": {"kills": null, "deaths": null, "score": null, "won": null}
+            }
+        },
+        {
+            "map": "TBD",
+            "stats": {
+                "bazinga": {"kills": null, "deaths": null, "score": null, "won": null},
+                "terrorist": {"kills": null, "deaths": null, "score": null, "won": null}
+            }
+        },
+        {
+            "map": "TBD",
+            "stats": {
+                "bazinga": {"kills": null, "deaths": null, "score": null, "won": null},
+                "terrorist": {"kills": null, "deaths": null, "score": null, "won": null}
+            }
+        }
+    ],
+    "predictions": {
+        "diego": "70-30 in favor of {bazinga}",
+        "hunter": "70-30 in favor of {bazinga}",
+        "chatgpt": "55-45 in favor of {terrorist}",
+        "claude": "55-45 in favor of {terrorist}"
+    }
+}
